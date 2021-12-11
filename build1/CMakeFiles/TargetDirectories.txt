@@ -1,0 +1,6 @@
+C:/Repositories/BattleCity/build1/CMakeFiles/BattleCity.dir
+C:/Repositories/BattleCity/build1/CMakeFiles/ALL_BUILD.dir
+C:/Repositories/BattleCity/build1/CMakeFiles/ZERO_CHECK.dir
+C:/Repositories/BattleCity/build1/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Repositories/BattleCity/build1/external/glfw/src/CMakeFiles/glfw.dir
+C:/Repositories/BattleCity/build1/external/glfw/src/CMakeFiles/update_mappings.dir
